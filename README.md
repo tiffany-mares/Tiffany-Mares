@@ -2,26 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Tiffany Mares</h1>
 <h3 align="center">Cloud Developer | Student Leader | Tech Enthusiast</h3>
-<a href="https://www.linkedin.com/in/tiffany-mares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-<a href="mailto:tiffmares@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-Highly efficient computer science student established in fast-paced and challenging environments, eager to learn with an aptitude for applying new knowledge.
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
+<h4 align="center">Highly efficient computer science student established in fast-paced and challenging environments, eager to learn with an aptitude for applying new knowledge!</h4>
 ---
 
 ### 🚀 About Me
 
 - 🎓 CS student at the **University of Guelph**  
-- 💻 Currently a **Cloud Developer Intern at BMO**  
+- 💻 Currently a **Cloud Developer Intern @ BMO**  
 - 🌩️ Interested in **cloud computing** and **mainframe systems**  
-- 🎙️ Incoming **President of WiCS** and VP of Communications @ CEPS  
+- 🎙️ VP of Communications @ CEPSSC  
 - 🌱 Studying for the **AWS Cloud Practitioner** exam  
 - 🧠 Advocating for tech education and digital accessibility
 
@@ -38,14 +27,6 @@ Highly efficient computer science student established in fast-paced and challeng
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
 </p>
-
----
-
-### 🔭 Current Projects
-
-- 🖥️ **Investment Portfolio Management System** — Java, GUI  
-- 🔗 **Graph Traversal CLI** — C, BFS/DFS, Dijkstra  
-- ⚙️ Hackathon Dev Tools — Productivity automation for BMO  
 
 ---
 
