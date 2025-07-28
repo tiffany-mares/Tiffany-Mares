@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tiffany Mares</h1>
 <h3 align="center">Cloud Developer | Student Leader | Tech Enthusiast</h3>
-tiffmares@gmail.com  Linkedin: Tiffany Mares
+<h4 align="center">tiffmares@gmail.com  Linkedin: Tiffany Mares</h4>
 Highly efficient computer science student established in fast-paced and challenging environments, eager to learn with an aptitude for applying new knowledge.
 
 
