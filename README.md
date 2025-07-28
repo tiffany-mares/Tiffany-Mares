@@ -56,14 +56,19 @@
 </p>
 ---
 
-### 📊 GitHub Stats
+### 💼 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Tiffany's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
-</p>
+#### 🐝 [Bee My Tutor](https://github.com/tiffany-mares/Bee-My-Tutor)
+AI-powered study platform with personalized learning plans, quiz generation, and grade predictions.  
+**Stack**: React.js, Redux.js, Node.js, Express.js, Firebase, Google Gemini
 
----
+#### 🔀 [Dijkstra’s Graph Traversal](https://github.com/tiffany-mares/Adjacency-List-Dijkstras-Algorithm-Traversal)
+C program with file-based input, dynamic allocation, BFS/DFS, and shortest path logic.  
+**Stack**: C
+
+#### 🌌 [Mandelbrot Fractal Generator](https://github.com/tiffany-mares/Mandelbrot-Fractal-Set-Graphic)
+Assembly program that calculates and visualizes the Mandelbrot set using fixed-point math.  
+**Stack**: Assembly Language
 
 ### 📫 Let's Connect!
 
