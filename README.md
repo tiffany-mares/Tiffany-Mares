@@ -1,7 +1,7 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile README --> 
 
 <h1 align="center">Hi 👋, I'm Tiffany Mares</h1>
-<h3 align="center">Cloud Developer @ BMO | Student Leader | Mainframe & Cloud Enthusiast</h3>
+<h3 align="center">Cloud Developer @ BMO | IBM Z Ambassador | Student Leader | Mainframe & Cloud Enthusiast</h3>
 <h4 align="center">Highly efficient computer science student established in fast-paced and challenging environments, eager to learn with an aptitude for applying new knowledge!</h4>
 ---
 
@@ -9,10 +9,11 @@
 
 - 🎓 CS student at the **University of Guelph**  
 - 💻 Currently a **Cloud Developer Intern @ BMO**  
+- 🖥️ **IBM Z Student Ambassador** advocating for mainframe education  
 - 🌩️ Interested in **cloud computing** and **mainframe systems**  
 - 🎙️ VP of Communications @ CEPSSC  
 - 🌱 Studying for the **AWS Cloud Practitioner** exam  
-- 🧠 Advocating for tech education and digital accessibility
+- 🧠 Advocating for tech education and digital accessibility  
 
 ---
 
@@ -45,6 +46,16 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
+#### 🏛️ Mainframe & Enterprise Computing
+<p>
+  <img src="https://img.shields.io/badge/IBM%20Z-054ADA?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/z%2FOS-000000?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-3A75B0?style=flat&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/JCL-FF6F00?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Db2-006699?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/RACF-008571?style=flat&logo=ibm&logoColor=white" />
+</p>
+
 #### 📊 Tools & Productivity
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
@@ -54,6 +65,7 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoftoutlook&logoColor=white" />
 </p>
+
 ---
 
 ### 💼 Featured Projects
@@ -70,6 +82,8 @@ C program with file-based input, dynamic allocation, BFS/DFS, and shortest path 
 Assembly program that calculates and visualizes the Mandelbrot set using fixed-point math.  
 **Stack**: Assembly Language
 
+---
+
 ### 📫 Let's Connect!
 
 <p>
@@ -79,4 +93,3 @@ Assembly program that calculates and visualizes the Mandelbrot set using fixed-p
 </p>
 
 ---
-
