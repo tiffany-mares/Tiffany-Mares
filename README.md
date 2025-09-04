@@ -28,8 +28,6 @@
 
 ---
 
----
-
 ### 🌟 About Me
 
 - 🎓 **Computer Science student** @ University of Guelph  
