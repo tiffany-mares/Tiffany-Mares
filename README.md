@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tiffany-mares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/tiffany-mares"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://soul-space-creator.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://tiffanymares.com/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1WCdAT-Iv0blMzV7670c-2ecVWEoAZx6D/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:tiffmares@gmail.com"><img src="https://img.shields.io/badge/Email%20(Personal)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="mailto:tmares@uoguelph.ca"><img src="https://img.shields.io/badge/Email%20(Student)-006400?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
