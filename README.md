@@ -1,19 +1,41 @@
-<!-- GitHub Profile README --> 
+<!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Tiffany Mares</h1>
-<h3 align="center">Cloud Developer @ BMO | IBM Z Ambassador | Student Leader | Mainframe & Cloud Enthusiast</h3>
-<h4 align="center">Highly efficient computer science student established in fast-paced and challenging environments, eager to learn with an aptitude for applying new knowledge!</h4>
+<h3 align="center">Cloud Developer ☁️ IBM Z Student Ambassador ⚡Student Leader 🗣️</h3>
+<h3 align="center">Azure/AWS • IBM Z • AI/Machine Learning</h3>
+
 ---
 
-### 🚀 About Me
+### 🔗 Quick Links
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiffany-mares/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/tiffany-mares"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://soul-space-creator.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="mailto:tiffmares@gmail.com"><img src="https://img.shields.io/badge/Email%20(Personal)-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tmares@uoguelph.ca"><img src="https://img.shields.io/badge/Email%20(Student)-006400?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🎓 CS student at the **University of Guelph**  
-- 💻 Currently a **Cloud Developer Intern @ BMO**  
-- 🖥️ **IBM Z Student Ambassador** advocating for mainframe education  
-- 🌩️ Interested in **cloud computing** and **mainframe systems**  
-- 🎙️ VP of Communications @ CEPSSC  
-- 🌱 Studying for the **AWS Cloud Practitioner** exam  
-- 🧠 Advocating for tech education and digital accessibility  
+---
+
+### 🏅 Certifications
+<p>
+  <img src="https://img.shields.io/badge/IBM%20Z%20Xplore%20Concepts%20Badge-054ADA?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+---
+
+### 🌟 About Me
+
+- 🎓 **Computer Science student** @ University of Guelph  
+- 💻 **Cloud Developer Intern** @ BMO (Insurance division) – building GenAI chatbot solutions, data pipelines, and production-ready systems with Azure  
+- 🖥️ **IBM Z Student Ambassador** – promoting mainframe education & running campus events  
+- 🌩️ **Founder & President of Cloud Computing Club**
+- ✨ **Student leader** with roles in CEPSSC (VP Comms) & SOCIS (former VP External)  
+- 🌱 Currently preparing for **AWS Cloud Practitioner (CLF-C02)** certification  
 
 ---
 
@@ -25,6 +47,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 </p>
 
 #### 🖥️ Frontend
@@ -82,14 +105,6 @@ C program with file-based input, dynamic allocation, BFS/DFS, and shortest path 
 Assembly program that calculates and visualizes the Mandelbrot set using fixed-point math.  
 **Stack**: Assembly Language
 
----
-
-### 📫 Let's Connect!
-
-<p>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" /></a>
-</p>
-
----
+#### 🤖 [AI Voice Assistant](https://github.com/tiffany-mares/AI-Voice-Assistant)
+Voice-controlled Python assistant with PyAudio for speech I/O, capable of web searches, definitions, music playback, and more.  
+**Stack**: Python  
