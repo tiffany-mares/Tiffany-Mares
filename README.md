@@ -20,8 +20,10 @@
 
 ### 🏅 Certifications
 <p>
-  <img src="https://img.shields.io/badge/IBM%20Z%20Xplore%20Concepts%20Badge-054ADA?style=flat&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <a href="https://www.credly.com/badges/0c9ade46-9ebd-4c64-b1f8-a2402d18f3a2" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Z%20Xplore%20Concepts%20Badge-054ADA?style=flat&logo=ibm&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -31,11 +33,13 @@
 ### 🌟 About Me
 
 - 🎓 **Computer Science student** @ University of Guelph  
-- 💻 **Cloud Developer Intern** @ BMO (Insurance division) – building GenAI chatbot solutions, data pipelines, and production-ready systems with Azure  
-- 🖥️ **IBM Z Student Ambassador** – promoting mainframe education & running campus events  
-- 🌩️ **Founder & President of Cloud Computing Club**
-- ✨ **Student leader** with roles in CEPSSC (VP Comms) & SOCIS (former VP External)  
+- 💻 [**Cloud Developer Intern @ BMO**](https://www.linkedin.com/posts/tiffanymares_bmo-clouddeveloper-coopexperience-activity-7361697225447518209-FFlM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEogt0ABMF03rdl7d47Um3jWsXvZ5aKMNVg) – building GenAI chatbot solutions, data pipelines, and production-ready systems with Azure  
+- 🖥️ [**IBM Z Student Ambassador**](https://www.linkedin.com/company/ibm-z-student-ambassador/posts/?feedView=all) – promoting mainframe education & running campus events  
+- 🌩️ **Founder of Cloud Computing Club** & **Incoming President of Women in CS (WiCS)**  
+- ✨ Student leader with roles in [**CEPSSC (VP Comms)**](https://www.linkedin.com/company/uog-cepssc/posts/?feedView=all) & [**SOCIS (former VP External)**](https://www.linkedin.com/company/uog-socis/posts/?feedView=all)  
 - 🌱 Currently preparing for **AWS Cloud Practitioner (CLF-C02)** certification  
+- 💡 Advocate for **digital accessibility**, inclusive design, and peer-driven learning  
+
 
 ---
 
