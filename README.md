@@ -33,7 +33,7 @@
 - 🎓 **Computer Science student** @ University of Guelph  
 - 💻 [**Cloud Developer Intern @ BMO**](https://www.linkedin.com/posts/tiffanymares_bmo-clouddeveloper-coopexperience-activity-7361697225447518209-FFlM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEogt0ABMF03rdl7d47Um3jWsXvZ5aKMNVg) – building GenAI chatbot solutions, data pipelines, and production-ready systems with Azure  
 - 🖥️ [**IBM Z Student Ambassador**](https://www.linkedin.com/company/ibm-z-student-ambassador/posts/?feedView=all) – promoting mainframe education & running campus events  
-- 🌩️ [**Founder of Cloud Computing Club**](https://www.linkedin.com/company/108975462/admin/dashboard/) & [**Co-President of Women in CS (WiCS)**](https://www.linkedin.com/company/guelphwics/posts/?feedView=all)
+- 🌩️ [**Founder of Cloud Computing Club**](https://www.linkedin.com/company/108975462/admin/dashboard/) & [**Co-President of Guelph Women in CS (GWICS)**](https://www.linkedin.com/company/guelphwics/posts/?feedView=all)
 - ✨ Student leader with roles in [**CEPSSC (VP Comms)**](https://www.linkedin.com/company/uog-cepssc/posts/?feedView=all) & [**SOCIS (former VP External)**](https://www.linkedin.com/company/uog-socis/posts/?feedView=all)  
 - 🌱 Currently preparing for **AWS Cloud Practitioner (CLF-C02)** certification  
 - 💡 Advocate for **digital accessibility**, inclusive design, and peer-driven learning  
